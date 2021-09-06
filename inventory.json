@@ -167,7 +167,7 @@
         "Manufacturing Date": "06/09/2021",
         "Expiring Date": "N/A",
         "Product type": "Electronics",
-        "Quantity": 5
+        "Quantity": 7
     },
     "118": {
         "Product": "Mobile",
@@ -187,6 +187,16 @@
         "Manufacturing Date": "20/12/2020",
         "Expiring Date": "20/12/2021",
         "Product type": "Sancks",
-        "Quantity": 36
+        "Quantity": 34
+    },
+    "119": {
+        "Product": "Keyboard",
+        "Price": 2500,
+        "Size": "Full",
+        "Tax Rate": 25,
+        "Manufacturing Date": "15/06/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Electronics",
+        "Quantity": 34
     }
 }
