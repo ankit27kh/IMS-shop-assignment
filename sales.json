@@ -1,0 +1,106 @@
+{
+    "Mon Sep  6 17:14:45 2021": [
+        {
+            "Product": "Blue Pen",
+            "Price": 10,
+            "Size": "N/A",
+            "Tax Rate": 12,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "N/A",
+            "Product type": "Ball pen",
+            "Quantity": 480
+        },
+        "Quantity Bought: 20",
+        "Revenue: 200"
+    ]
+}{
+    "Mon Sep  6 17:14:47 2021": [
+        {
+            "Product": "MicroCell Battery",
+            "Price": 25,
+            "Size": "AA",
+            "Tax Rate": 12,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "20/01/2030",
+            "Product type": "Battery",
+            "Quantity": 48
+        },
+        "Quantity Bought: 2",
+        "Revenue: 50"
+    ]
+}{
+    "Mon Sep  6 17:14:53 2021": [
+        {
+            "Product": "Black Pen",
+            "Price": 10,
+            "Size": "N/A",
+            "Tax Rate": 12,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "N/A",
+            "Product type": "Ball pen",
+            "Quantity": 275
+        },
+        "Quantity Bought: 225",
+        "Revenue: 2250"
+    ]
+}{
+    "Mon Sep  6 17:19:44 2021": [
+        {
+            "Product": "Black Pen",
+            "Price": 10,
+            "Size": "N/A",
+            "Tax Rate": 12,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "N/A",
+            "Product type": "Ball pen",
+            "Quantity": 488
+        },
+        "Quantity Bought: 12",
+        "Revenue: 120"
+    ]
+}{
+    "Mon Sep  6 17:19:48 2021": [
+        {
+            "Product": "Dairy Milk",
+            "Price": 25,
+            "Size": "Large",
+            "Tax Rate": 18,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "20/01/2022",
+            "Product type": "Chocolate",
+            "Quantity": 27
+        },
+        "Quantity Bought: 23",
+        "Revenue: 575"
+    ]
+}{
+    "Mon Sep  6 12:48:15 2021": [
+        {
+            "Product": "Blue Pen", 
+            "Price": 10, 
+            "Size": "N/A", 
+            "Tax Rate": 12, 
+            "Manufacturing Date": "20/01/2020", 
+            "Expiring Date": "N/A", 
+            "Product type": "Ball pen", 
+            "Quantity": 448
+        }, 
+        "Quantity Bought: 52", 
+        "Revenue: 520"
+    ]
+}{
+    "Mon Sep  6 13:18:45 2021": [
+        {
+            "Product": "Kurkure",
+            "Price": 20,
+            "Size": "Medium",
+            "Tax Rate": 12,
+            "Manufacturing Date": "20/12/2020",
+            "Expiring Date": "20/12/2021",
+            "Product type": "Sancks",
+            "Quantity": 34
+        },
+        "Quantity Bought: 2",
+        "Revenue: 40"
+    ]
+}

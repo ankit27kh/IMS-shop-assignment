@@ -1,0 +1,109 @@
+{
+    "Mon Sep  6 17:19:54 2021": [
+        {
+            "Product": "MicroCell Battery",
+            "Price": 25,
+            "Size": "AA",
+            "Tax Rate": 12,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "20/01/2030",
+            "Product type": "Battery",
+            "Quantity": 115
+        },
+        "Quantity Stocked: 65",
+        "Cost: 1625"
+    ]
+}{
+    "Mon Sep  6 17:20:05 2021": [
+        {
+            "Product": "Red Pen",
+            "Price": 10,
+            "Size": "N/A",
+            "Tax Rate": 12,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "N/A",
+            "Product type": "Ball pen",
+            "Quantity": 525
+        },
+        "Quantity Stocked: 25",
+        "Cost: 250"
+    ]
+}{
+    "Mon Sep  6 18:10:57 2021": {
+        "Product": "Cake",
+        "Price": 580,
+        "Size": "Large",
+        "Tax Rate": 18,
+        "Manufacturing Date":"06/09/2021",
+        "Expiring Date": "10/09/2021",
+        "Product type": "Dessert",
+        "Quantity": 5
+    }
+}{
+    "Mon Sep  6 12:52:50 2021": [
+        {
+            "Product": "Dairy Milk",
+            "Price": 15,
+            "Size": "Medium",
+            "Tax Rate": 18,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "20/01/2022",
+            "Product type": "Chocolate",
+            "Quantity": 75
+        },
+        "Quantity Stocked: 25",
+        "Cost: 375"
+    ]
+}{
+    "Mon Sep  6 12:54:40 2021": [
+        {
+            "Product": "Dairy Milk",
+            "Price": 25,
+            "Size": "Large",
+            "Tax Rate": 18,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "20/01/2022",
+            "Product type": "Chocolate",
+            "Quantity": 113
+        },
+        "Quantity Stocked: 63",
+        "Cost: 1575"
+    ]
+}{"
+    Mon Sep  6 12:55:50 2021": {
+        "Product": "Kurkure",
+        "Price": 20,
+        "Size": "Medium",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/12/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Snacks",
+        "Quantity": 36
+    }
+}{
+    "Mon Sep  6 13:19:16 2021": [
+        {
+            "Product": "Laptop",
+            "Price": 50000,
+            "Size": "N/A",
+            "Tax Rate": 18,
+            "Manufacturing Date": "06/09/2021",
+            "Expiring Date": "N/A",
+            "Product type": "Electronics",
+            "Quantity": 7
+        },
+        "Quantity Stocked: 2",
+        "Cost: 100000"
+    ]
+}{
+    "Mon Sep  6 13:20:18 2021": {
+        "Product": "Keyboard",
+        "Price": 2500,
+        "Size": "Full",
+        "Tax Rate": 25,
+        "Manufacturing Date": "15/06/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Electronics",
+        "Quantity": 34
+    }
+}
