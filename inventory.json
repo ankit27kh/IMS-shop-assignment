@@ -1,0 +1,192 @@
+{
+    "101": {
+        "Product": "Dairy Milk",
+        "Price": 25,
+        "Size": "Large",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2022",
+        "Product type": "Chocolate",
+        "Quantity": 113
+    },
+    "102": {
+        "Product": "Dairy Milk",
+        "Price": 15,
+        "Size": "Medium",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2022",
+        "Product type": "Chocolate",
+        "Quantity": 75
+    },
+    "103": {
+        "Product": "Dairy Milk",
+        "Price": 10,
+        "Size": "Small",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2022",
+        "Product type": "Chocolate",
+        "Quantity": 50
+    },
+    "104": {
+        "Product": "Mazaa",
+        "Price": 20,
+        "Size": "Medium",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2022",
+        "Product type": "Cold Drink",
+        "Quantity": 50
+    },
+    "105": {
+        "Product": "Mazaa",
+        "Price": 10,
+        "Size": "Small",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2022",
+        "Product type": "Cold Drink",
+        "Quantity": 50
+    },
+    "106": {
+        "Product": "Mirinda",
+        "Price": 60,
+        "Size": "Large",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2022",
+        "Product type": "Cold Drink",
+        "Quantity": 50
+    },
+    "107": {
+        "Product": "Blue Pen",
+        "Price": 20,
+        "Size": "N/A",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Gel pen",
+        "Quantity": 500
+    },
+    "108": {
+        "Product": "Black Pen",
+        "Price": 20,
+        "Size": "N/A",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Gel pen",
+        "Quantity": 500
+    },
+    "109": {
+        "Product": "Red Pen",
+        "Price": 20,
+        "Size": "N/A",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Gel pen",
+        "Quantity": 500
+    },
+    "110": {
+        "Product": "Blue Ball Pen",
+        "Price": 10,
+        "Size": "N/A",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Ball pen",
+        "Quantity": 448
+    },
+    "111": {
+        "Product": "Black Ball Pen",
+        "Price": 10,
+        "Size": "N/A",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Ball pen",
+        "Quantity": 500
+    },
+    "112": {
+        "Product": "Red Ball Pen",
+        "Price": 10,
+        "Size": "N/A",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Ball pen",
+        "Quantity": 500
+    },
+    "113": {
+        "Product": "Dulex Battery",
+        "Price": 20,
+        "Size": "AA",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2025",
+        "Product type": "Battery",
+        "Quantity": 50
+    },
+    "114": {
+        "Product": "Dulex Battery",
+        "Price": 10,
+        "Size": "AAA",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2025",
+        "Product type": "Battery",
+        "Quantity": 50
+    },
+    "115": {
+        "Product": "MicroCell Battery",
+        "Price": 25,
+        "Size": "AA",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "20/01/2030",
+        "Product type": "Battery",
+        "Quantity": 45
+    },
+    "116": {
+        "Product": "Cake",
+        "Price": 580,
+        "Size": "Large",
+        "Tax Rate": 18,
+        "Manufacturing Date": "06/09/2021",
+        "Expiring Date": "10/09/2021",
+        "Product type": "Dessert",
+        "Quantity": 15
+    },
+    "117": {
+        "Product": "Laptop",
+        "Price": 50000,
+        "Size": "N/A",
+        "Tax Rate": 18,
+        "Manufacturing Date": "06/09/2021",
+        "Expiring Date": "N/A",
+        "Product type": "Electronics",
+        "Quantity": 5
+    },
+    "118": {
+        "Product": "Mobile",
+        "Price": 25000,
+        "Size": "N/A",
+        "Tax Rate": 18,
+        "Manufacturing Date": "06/09/2021",
+        "Expiring Date": "N/A",
+        "Product type": "Electronics",
+        "Quantity": 9
+    },
+    "200": {
+        "Product": "Kurkure",
+        "Price": 20,
+        "Size": "Medium",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/12/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Sancks",
+        "Quantity": 36
+    }
+}
