@@ -187,7 +187,7 @@
         "Manufacturing Date": "20/12/2020",
         "Expiring Date": "20/12/2021",
         "Product type": "Sancks",
-        "Quantity": 34
+        "Quantity": 70
     },
     "119": {
         "Product": "Keyboard",
@@ -198,5 +198,125 @@
         "Expiring Date": "N/A",
         "Product type": "Electronics",
         "Quantity": 34
+    },
+    "201": {
+        "Product": "Kurkure",
+        "Price": 5,
+        "Size": "Small",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/12/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Sancks",
+        "Quantity": 340
+    },
+    "202": {
+        "Product": "Lays Blue",
+        "Price": 20,
+        "Size": "Medium",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/12/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Sancks",
+        "Quantity": 120
+    },
+    "203": {
+        "Product": "Lays Green",
+        "Price": 20,
+        "Size": "Medium",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/12/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Sancks",
+        "Quantity": 25
+    },
+    "204": {
+        "Product": "Mouse (Wireless)",
+        "Price": 1000,
+        "Size": "N/A",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Electronics",
+        "Quantity": 30
+    },
+    "205": {
+        "Product": "Mouse (Wired)",
+        "Price": 500,
+        "Size": "N/A",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/01/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Electronics",
+        "Quantity": 50
+    },
+    "206": {
+        "Product": "Eclairs",
+        "Price": 2,
+        "Size": "N/A",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/12/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Candy",
+        "Quantity": 340
+    },
+    "207": {
+        "Product": "Munch",
+        "Price": 5,
+        "Size": "Small",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/12/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Chocolate",
+        "Quantity": 150
+    },
+    "208": {
+        "Product": "Munch",
+        "Price": 20,
+        "Size": "Large",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/12/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Chocolate",
+        "Quantity": 250
+    },
+    "209": {
+        "Product": "Coffee Byte",
+        "Price": 5,
+        "Size": "N/A",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/02/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Candy",
+        "Quantity": 540
+    },
+    "210": {
+        "Product": "All Out",
+        "Price": 89,
+        "Size": "N/A",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/10/2020",
+        "Expiring Date": "20/12/2021",
+        "Product type": "Mosquito Repellent",
+        "Quantity": 54
+    },
+    "300": {
+        "Product": "Nail cutter",
+        "Price": 150,
+        "Size": "N/A",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/10/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Groominig",
+        "Quantity": 8
+    },
+    "310": {
+        "Product": "Oil",
+        "Price": 250,
+        "Size": "Medium",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/10/2019",
+        "Expiring Date": "N/A",
+        "Product type": "Grooming",
+        "Quantity": 64
     }
 }

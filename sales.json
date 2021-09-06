@@ -103,4 +103,34 @@
         "Quantity Bought: 2",
         "Revenue: 40"
     ]
+}{
+    "Mon Sep  6 13:31:22 2021": [
+        {
+            "Product": "Keyboard",
+            "Price": 2500,
+            "Size": "Full",
+            "Tax Rate": 25,
+            "Manufacturing Date": "15/06/2020",
+            "Expiring Date": "N/A",
+            "Product type": "Electronics",
+            "Quantity": 32
+        },
+        "Quantity Bought: 2",
+        "Revenue: 5000"
+    ]
+}{
+    "Mon Sep  6 13:53:44 2021": [
+        {
+            "Product": "Nail cutter",
+            "Price": 150,
+            "Size": "N/A",
+            "Tax Rate": 18,
+            "Manufacturing Date": "20/10/2020",
+            "Expiring Date": "N/A",
+            "Product type": "Groominig",
+            "Quantity": 8
+        },
+        "Quantity Bought: 2",
+        "Revenue: 300"
+    ]
 }

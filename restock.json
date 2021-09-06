@@ -106,4 +106,56 @@
         "Product type": "Electronics",
         "Quantity": 34
     }
+}{
+    "Mon Sep  6 13:31:33 2021": [
+        {
+            "Product": "Mirinda",
+            "Price": 60,
+            "Size": "Large",
+            "Tax Rate": 18,
+            "Manufacturing Date": "20/01/2020",
+            "Expiring Date": "20/01/2022",
+            "Product type": "Cold Drink",
+            "Quantity": 104
+        },
+        "Quantity Stocked: 54",
+        "Cost: 3240"
+    ]
+}{
+    "Mon Sep  6 13:32:24 2021": {
+        "Product": "Calculator",
+        "Price": 599,
+        "Size": "Small",
+        "Tax Rate": 18,
+        "Manufacturing Date": "20/10/2020",
+        "Expiring Date": "N/A",
+        "Product type": "Electronics",
+        "Quantity": 82
+    }
+}{
+    "Mon Sep  6 13:54:00 2021": [
+        {
+            "Product": "Kurkure",
+            "Price": 20,
+            "Size": "Medium",
+            "Tax Rate": 12,
+            "Manufacturing Date": "20/12/2020",
+            "Expiring Date": "20/12/2021",
+            "Product type": "Sancks",
+            "Quantity": 70
+        },
+        "Quantity Stocked: 36",
+        "Cost: 720"
+    ]
+}{
+    "Mon Sep  6 13:55:13 2021": {
+        "Product": "Oil",
+        "Price": 250,
+        "Size": "Medium",
+        "Tax Rate": 12,
+        "Manufacturing Date": "20/10/2019",
+        "Expiring Date": "N/A",
+        "Product type": "Grooming",
+        "Quantity": 64
+    }
 }
